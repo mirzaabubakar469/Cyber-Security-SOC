@@ -1,4 +1,4 @@
-## 🌐 Overview TCP/IP Model
+## 🌐 TCP/IP Model Overview
 <br> </br>
 
 ## 📊 OSI vs TCP/IP Basic Comparison
