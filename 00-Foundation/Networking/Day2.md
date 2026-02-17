@@ -1,7 +1,7 @@
-## 🌐 TCP/IP Model
+## 🌐 Overview TCP/IP Model
 <br> </br>
 
-## 📊 OSI vs TCP/IP Comparison
+## 📊 OSI vs TCP/IP Basic Comparison
 <br></br>
 
 ## 📺 Recommended Video Course
