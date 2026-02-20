@@ -1,6 +1,6 @@
 ## 🌐 Network Layer – Deep Dive
 <br></br>
-## Main Responsiblities
+## 🔹Main Responsiblities
 <br></br>
 * 🔹 Network Layer
 * 🔹 Routing
