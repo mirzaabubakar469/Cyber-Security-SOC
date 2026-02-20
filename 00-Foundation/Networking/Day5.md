@@ -2,7 +2,7 @@
 <br></br>
 ## Main Responsiblities
 <br></br>
-*🔹 Network Layer
+* 🔹 Network Layer
 * 🔹 Routing
 * 🔹 Host to Host Delivery
 * 🔹 Logical Address
