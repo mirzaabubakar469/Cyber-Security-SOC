@@ -1,6 +1,5 @@
 ## 🔗 Data Link Layer – Deep Dive
-
-## 📌 What is Data Link Layer?
+<br></br>
 
 ## 🔹 Main Responsibilities
 <br></br>
