@@ -1,5 +1,4 @@
 ## 🔗 Data Link Layer – Deep Dive
-<br></br>
 * Framing
 * MAC addressing
 * Error detection
