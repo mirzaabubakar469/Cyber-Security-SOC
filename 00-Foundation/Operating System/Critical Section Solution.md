@@ -63,7 +63,7 @@ It **violates the progress condition**.
 
 Example:
 
-* Process 0 finishes
+* Process 0 wants to execute
 * Process 1 is not interested
 * Process 0 must still wait for its turn
 
